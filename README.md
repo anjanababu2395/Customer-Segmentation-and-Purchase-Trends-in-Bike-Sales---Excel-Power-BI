@@ -1,1 +1,1 @@
-This project focuses on analyzing customer demographics and purchasing behavior to uncover patterns in bike sales. The aim is to analyze customers based on age, income, education, and other factors to identify which groups are more likely to purchase a bike.
+Customer Segmentation and Purchase Trends in Bike Sales - This project examines customer demographics and purchasing behavior to identify patterns in bike sales. The aim is to analyze customers based on age, income, education, and other factors to determine which groups are more likely to purchase a bike.
